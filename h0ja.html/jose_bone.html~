@@ -1,0 +1,45 @@
+<html>
+  <head>
+   <title> HOJA DE VIDA</title>
+  </head>
+  <body bgcolor="#f2f5a8">
+   <p><b><h1>HOJA DE VIDA</h1></b></p>
+    
+    <p><b><h2>DATOS PERSONALES</h2></b></p>
+    <tr>
+      <table border="1"width="40%" heigtht="160">
+	<tr><td><b>Cedula:</b></td><td>0804161958</td>
+        <td rowspan="11"><img src="jose001.jpg" width="150" heigth="260"></td></tr>
+	<tr><td><b>Apellidos:</b></td><td>Bone Mina</td>
+	<tr><td><b>Nombres:</b></td><td>Jose Aurelio</td>
+	<tr><td><b>Nacionalidad:</b></td><td>Ecuatoriana</td>
+	<tr><td><b>Lugar de Nacimiento:</b></td><td>Atacames</td>
+	<tr><td><b>Fecha de Nacimiento:</b></td><td>23 Enero 1993</td>
+	<tr><td><b>Edad:</b></td><td>24 años</td>
+      </table>
+      <p><b><h2>ESTUDIOS REALIZADOS</h2></b></p>
+      <UL>
+	<br><b>Primaria</b></br>
+	<br><li>Unidad Educativa Fiscal "Atahualpa"</li></br>
+	<br><b>Secundaria</b></br>
+	<br><li>Unidad Educativa Fiscal "Atacames"</li></br>
+	<br><b>Superior</b></br>
+	<br><li>Universidad Tecnica Luis Vargas Torres</li></br>
+      </UL>
+      <p><b><h2>EXPERIENCIA LABORAL</h2></b></p>
+      <UL>
+	<br><b>PROMARISCO S.A  (14-FEB-2011 A 15-JUN-2014)</b></br>
+	<br><li>DIGITADOR</li></br>
+	<br><b>SPHEREL S.A  (16-JUN-2014 A 30-AGO-2014)</b></br>
+	<br><li>ASISTENTE ADMINISTRATIVO</li></br>
+	<br><b>OLIOJOYA INDUSTRIA ACEITERA CIA LTDA (01-SEP-2014 A 11-FEB-2015)</b></br>
+	<br><li>BODEGUERO SENIOR</li></br>
+	<br><b>TELCONET S.A  (03-AGO-2015 A 20-NOV-2015)</b></br>
+	<br><li>AYUDANTE DE BODEGA</li></br>
+      </UL>
+     	  
+  </body>
+  </html>
+    
+    
+      
